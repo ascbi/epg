@@ -1,0 +1,1281 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="es.LA 1" tvg-name="ES: LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="TDT",ES: LA 1
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT",LA 1
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/2
+#EXTINF:-1 tvg-id="es.LA 2" tvg-name="ES: LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="TDT",ES: LA 2
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/3
+#EXTINF:-1 tvg-id="es.LA 2" tvg-name="ES: LA 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="TDT",ES: LA 2 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/4
+#EXTINF:-1 tvg-id="es.Antena 3" tvg-name="ES: ANTENA 3" tvg-logo="https://i0.pngocean.com/files/254/679/691/antena-3-spain-atresmedia-corporacion-logo-television-antena.jpg" group-title="TDT",ES: ANTENA 3
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/5
+#EXTINF:-1 tvg-id="es.Antena 3" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Ant3HD2017.png" group-title="TDT",ES: ANTENA 3 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/6
+#EXTINF:-1 tvg-id="es.Cuatro" tvg-name="ES: CUATRO" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="TDT",ES: CUATRO
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/7
+#EXTINF:-1 tvg-id="es.Cuatro" tvg-name="ES: CUATRO FHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cuatro-logo-png-7.png" group-title="TDT",ES: CUATRO FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/8
+#EXTINF:-1 tvg-id="es.Telecinco" tvg-name="ES: TELECINCO" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_logo_500_-1_c0eb.png" group-title="TDT",ES: TELECINCO
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/9
+#EXTINF:-1 tvg-id="es.Telecinco" tvg-name="ES: TELECINCO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png" group-title="TDT",ES: TELECINCO FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/10
+#EXTINF:-1 tvg-id="es.La Sexta" tvg-name="ES: LA SEXTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/1200px-La_Sexta.svg.png" group-title="TDT",ES: LA SEXTA
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/11
+#EXTINF:-1 tvg-id="es.La Sexta" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="TDT",ES: LA SEXTA FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/12
+#EXTINF:-1 tvg-id="es.Divinity" tvg-name="ES: DIVINITY" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_logo_500_-1_37a2.png" group-title="TDT",ES: DIVINITY
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/114
+#EXTINF:-1 tvg-id="es.Energy" tvg-name="ES: ENERGY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="TDT",ES: ENERGY
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/115
+#EXTINF:-1 tvg-id="es.Neox" tvg-name="ES: NEOX " tvg-logo="" group-title="TDT",ES: NEOX 
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/148
+#EXTINF:-1 tvg-id="es.Atreseries" tvg-name="ES: ATRESSERIES FHD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b7/Atreseries_%282015-.n.v.%29.png/revision/latest?cb=20180625180806" group-title="TDT",ES: ATRESSERIES FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/161
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="https://canalxtrm.es/wp-content/uploads/2017/12/xtrm-logo-1.png" group-title="TDT",ES: XTRM
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/163
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1200px-DKiss.svg.png" group-title="TDT",ES: DKISS
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/167
+#EXTINF:-1 tvg-id="es.Mega" tvg-name="ES: Mega FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png" group-title="TDT",ES: Mega FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/180
+#EXTINF:-1 tvg-id="es.Telesur" tvg-name="ES: TELESUR" tvg-logo="https://www.telesurtv.net/pages/Especiales/Aniversario_teleSUR/1/img/logo-telesur-hor.png" group-title="TDT",ES: TELESUR
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/191
+#EXTINF:-1 tvg-id="es.Telesur" tvg-name="ES: TELESUR FHD" tvg-logo="https://journalistsupport.net/static/images/750x440/eddc5e73100fa7b7d254a4428c1cdd91.png" group-title="TDT",ES: TELESUR FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/192
+#EXTINF:-1 tvg-id="ES| TVE" tvg-name="ES: TVE INT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png" group-title="TDT",ES: TVE INT
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/194
+#EXTINF:-1 tvg-id="" tvg-name="ES: Ceuta TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/ceuta-tv.png" group-title="TDT",ES: Ceuta TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/281
+#EXTINF:-1 tvg-id="es.Disney Channel" tvg-name="ES: DISNEY CH FHD" tvg-logo="https://i.dlpng.com/static/png/6371145_preview.png" group-title="KIDS",ES: DISNEY CH FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/27
+#EXTINF:-1 tvg-id="es.Nickelodeon" tvg-name="ES: NICKELODEON FHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/nickelodeon-hd-png-4.png" group-title="KIDS",ES: NICKELODEON FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/80
+#EXTINF:-1 tvg-id="es.Boing" tvg-name="ES: BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="KIDS",ES: BOING
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/96
+#EXTINF:-1 tvg-id="es.Canal Panda" tvg-name="ES: CANAL PANDA" tvg-logo="https://www.pngkey.com/png/full/321-3210998_canal-panda-inicia-esta-semana-una-nueva-etapa.png" group-title="KIDS",ES: CANAL PANDA
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/102
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN  TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="KIDS",ES: CLAN  TVE
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/105
+#EXTINF:-1 tvg-id="es.Disney Channel" tvg-name="ES: DISNEY CH" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/Disney_Channel_2014.png" group-title="KIDS",ES: DISNEY CH
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/111
+#EXTINF:-1 tvg-id="es.Disney Junior" tvg-name="ES: DISNEY JR" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738" group-title="KIDS",ES: DISNEY JR
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/112
+#EXTINF:-1 tvg-id="es.Disney XD" tvg-name="ES: DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="KIDS",ES: DISNEY XD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/113
+#EXTINF:-1 tvg-id="es.NICK JR" tvg-name="ES: NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="KIDS",ES: NICK JR
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/149
+#EXTINF:-1 tvg-id="es.Nickelodeon" tvg-name="ES: NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="KIDS",ES: NICKELODEON
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/150
+#EXTINF:-1 tvg-id="es.M. Disney" tvg-name="ES: M. DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png" group-title="KIDS",ES: M. DISNEY
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/135
+#EXTINF:-1 tvg-id="" tvg-name="ES: UBEAT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Ubeat_black_logo_copy.png" group-title="KIDS",ES: UBEAT FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/165
+#EXTINF:-1 tvg-id="es.Clan TVE" tvg-name="ES: Clan tv FHD" tvg-logo="https://www.televalentin.com/imagenes/logos/Clan_HD%202018__ebc9b34f7d.png" group-title="KIDS",ES: Clan tv FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/182
+#EXTINF:-1 tvg-id="es.Boing" tvg-name="ES: BOING HD" tvg-logo="https://www.diesl.com/wp-content/uploads/2017/01/Boing_Diesl.com_.png" group-title="KIDS",ES: BOING HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/231
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAyPESCA FHD Local" tvg-logo="" group-title="DOCUMENTALES",ES: CAZAyPESCA FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/24
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="ES: NAT GEO FHD Local" tvg-logo="" group-title="DOCUMENTALES",Nat Geo HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/78
+#EXTINF:-1 tvg-id="" tvg-name="ES: NG WILD FHD Local" tvg-logo="" group-title="DOCUMENTALES",ES: NG WILD FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/79
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR FHD Local" tvg-logo="" group-title="DOCUMENTALES",ES: VIAJAR FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/86
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA SD Local" tvg-logo="" group-title="DOCUMENTALES",ES: CAZA Y PESCA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/104
+#EXTINF:-1 tvg-id="" tvg-name="ES: CRIMEN+INVES SD Local" tvg-logo="" group-title="DOCUMENTALES",ES: CRIMEN+INVES SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/109
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY SD Local" tvg-logo="" group-title="DOCUMENTALES",ES: DISCOVERY SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/110
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA SD Local" tvg-logo="" group-title="DOCUMENTALES",ES: HISTORIA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/123
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA TV SD Local" tvg-logo="" group-title="DOCUMENTALES",ES: IBERALIA TV SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/125
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD SD Local" tvg-logo="" group-title="DOCUMENTALES",ES: NAT GEO WILD SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/146
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEOGRAPH SD Local" tvg-logo="" group-title="DOCUMENTALES",ES: NAT GEOGRAPH SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/147
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA SD Local" tvg-logo="" group-title="DOCUMENTALES",ES: CANAL COCINA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/98
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DECASA SD Local" tvg-logo="" group-title="DOCUMENTALES",ES: CANAL DECASA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/99
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ODISEA SD Local" tvg-logo="" group-title="DOCUMENTALES",ES: CANAL ODISEA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/100
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR SD Local" tvg-logo="" group-title="DOCUMENTALES",ES: VIAJAR SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/160
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="" group-title="DOCUMENTALES",ES: DMAX
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/166
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEMAD TV FHD Local" tvg-logo="" group-title="DOCUMENTALES",ES: BEMAD TV FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/168
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEMAD TV SD" tvg-logo="" group-title="DOCUMENTALES",ES: BEMAD TV SD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/169
+#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa FHD Local" tvg-logo="" group-title="DOCUMENTALES",ES: Decasa FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/181
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS SD Local" tvg-logo="" group-title="INFORMACION",ES: FOX NEWS SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/120
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS SD Local" tvg-logo="" group-title="INFORMACION",ES: 24 HORAS SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/87
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV INT SD Local" tvg-logo="" group-title="INFORMACION",ES: ARAGON TV INT SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/89
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR A. SD Local" tvg-logo="" group-title="INFORMACION",ES: CANAL SUR A. SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/103
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 24 HORAS SD Local" tvg-logo="" group-title="INFORMACION",ES: CANAL 24 HORAS SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/186
+#EXTINF:-1 tvg-id="" tvg-name="ES: RT Esp SD Local" tvg-logo="" group-title="INFORMACION",ES: RT Esp SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/189
+#EXTINF:-1 tvg-id="" tvg-name="ES: RT Esp FHD Local" tvg-logo="" group-title="INFORMACION",ES: RT Esp FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/190
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ORBE21 SD Local" tvg-logo="" group-title="REGIONALES",ES: CANAL ORBE21 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/101
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLASSICA SD Local" tvg-logo="" group-title="REGIONALES",ES: CLASSICA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/106
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE TV SD Local" tvg-logo="" group-title="REGIONALES",ES: SUNDANCE TV SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/155
+#EXTINF:-1 tvg-id="" tvg-name="ES: CASTILLA-LAMANCHA Local" tvg-logo="" group-title="REGIONALES",ES: CASTILLA-LAMANCHA Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/171
+#EXTINF:-1 tvg-id="" tvg-name="ES: Ten SD Local" tvg-logo="" group-title="REGIONALES",ES: Ten SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/183
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cubavision Int" tvg-logo="" group-title="REGIONALES",ES: Cubavision Int
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/187
+#EXTINF:-1 tvg-id="" tvg-name="ES: EXTREMADURA SAT SD Local" tvg-logo="" group-title="REGIONALES",ES: EXTREMADURA SAT SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/188
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Record SD Local" tvg-logo="" group-title="REGIONALES",ES: TV Record SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/193
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVGA SD Local" tvg-logo="" group-title="REGIONALES",ES: TVGA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/195
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVGA EUROPA HD  Local" tvg-logo="" group-title="REGIONALES",ES: TVGA EUROPA HD  Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/196
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV 13 " tvg-logo="" group-title="REGIONALES",ES: TV 13 
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/198
+#EXTINF:-1 tvg-id="" tvg-name="ES: HIT TV" tvg-logo="" group-title="REGIONALES",ES: HIT TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/199
+#EXTINF:-1 tvg-id="" tvg-name="ES: 8Tv" tvg-logo="" group-title="REGIONALES",ES: 8Tv
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/200
+#EXTINF:-1 tvg-id="" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="REGIONALES",ES: Andalucia TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/201
+#EXTINF:-1 tvg-id="" tvg-name="ES: 13 TV" tvg-logo="" group-title="REGIONALES",ES: 13 TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/202
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1" tvg-logo="" group-title="REGIONALES",ES: ETB 1
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/203
+#EXTINF:-1 tvg-id="" tvg-name="ES: Extremadura TV" tvg-logo="" group-title="REGIONALES",ES: Extremadura TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/204
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Otra" tvg-logo="" group-title="REGIONALES",ES: La Otra
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/205
+#EXTINF:-1 tvg-id="" tvg-name="ES: Intereconomia" tvg-logo="" group-title="REGIONALES",ES: Intereconomia
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/206
+#EXTINF:-1 tvg-id="" tvg-name="ES: 324" tvg-logo="" group-title="REGIONALES",ES: 324
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/207
+#EXTINF:-1 tvg-id="" tvg-name="ES: 324 Exclusiu" tvg-logo="" group-title="REGIONALES",ES: 324 Exclusiu
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/208
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3" tvg-logo="" group-title="REGIONALES",ES: TV3
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/209
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV 3 Cmmeres" tvg-logo="" group-title="REGIONALES",ES: TV 3 Cmmeres
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/210
+#EXTINF:-1 tvg-id="" tvg-name="ES: 33" tvg-logo="" group-title="REGIONALES",ES: 33
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/211
+#EXTINF:-1 tvg-id="" tvg-name="ES: Lebrija TV" tvg-logo="" group-title="REGIONALES",ES: Lebrija TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/212
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teleonuba" tvg-logo="" group-title="REGIONALES",ES: Teleonuba
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/213
+#EXTINF:-1 tvg-id="" tvg-name="ES: InterAlmeria TV" tvg-logo="" group-title="REGIONALES",ES: InterAlmeria TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/214
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cadena Elite" tvg-logo="" group-title="REGIONALES",ES: Cadena Elite
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/215
+#EXTINF:-1 tvg-id="" tvg-name="ES: Condavision" tvg-logo="" group-title="REGIONALES",ES: Condavision
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/216
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alternativa TV" tvg-logo="" group-title="REGIONALES",ES: Alternativa TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/217
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bon Dia TV" tvg-logo="" group-title="REGIONALES",ES: Bon Dia TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/218
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLassica" tvg-logo="" group-title="REGIONALES",ES: CLassica
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/219
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVC net - Canarias (CN)" tvg-logo="" group-title="REGIONALES",ES: RTVC net - Canarias (CN)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/221
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eitb - P.Vasco (PV)" tvg-logo="" group-title="REGIONALES",ES: Eitb - P.Vasco (PV)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/222
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mediterraneo TV - C.Valenciana (VC) HD" tvg-logo="" group-title="REGIONALES",ES: Mediterraneo TV - C.Valenciana (VC) HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/223
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTV Ceuta - Ceuta (CE) HD" tvg-logo="" group-title="REGIONALES",ES: RTV Ceuta - Ceuta (CE) HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/224
+#EXTINF:-1 tvg-id="" tvg-name="ES: mtmad 24h HD" tvg-logo="" group-title="REGIONALES",ES: mtmad 24h HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/226
+#EXTINF:-1 tvg-id="" tvg-name="ES: El Toro TV SD" tvg-logo="" group-title="REGIONALES",ES: El Toro TV SD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/227
+#EXTINF:-1 tvg-id="" tvg-name="ES: UD Las Palmas" tvg-logo="" group-title="REGIONALES",ES: UD Las Palmas
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/229
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Andalucia Turismo" tvg-logo="" group-title="REGIONALES",ES: Canal Andalucia Turismo
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/233
+#EXTINF:-1 tvg-id="" tvg-name="ES: 8 La Janda SD" tvg-logo="" group-title="REGIONALES",ES: 8 La Janda SD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/235
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur La Banda" tvg-logo="" group-title="REGIONALES",ES: Canal Sur La Banda
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/236
+#EXTINF:-1 tvg-id="" tvg-name="ES: 101TV Málaga" tvg-logo="" group-title="REGIONALES",ES: 101TV Málaga
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/237
+#EXTINF:-1 tvg-id="" tvg-name="ES: El Correo de Andalucía" tvg-logo="" group-title="REGIONALES",ES: El Correo de Andalucía
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/238
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal 45 TV" tvg-logo="" group-title="REGIONALES",ES: Canal 45 TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/239
+#EXTINF:-1 tvg-id="" tvg-name="ES: Onda Algeciras TV" tvg-logo="" group-title="REGIONALES",ES: Onda Algeciras TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/240
+#EXTINF:-1 tvg-id="" tvg-name="ES: CanalCosta HD" tvg-logo="" group-title="REGIONALES",ES: CanalCosta HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/241
+#EXTINF:-1 tvg-id="" tvg-name="ES: interalmería" tvg-logo="" group-title="REGIONALES",ES: interalmería
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/242
+#EXTINF:-1 tvg-id="" tvg-name="ES: Marbella TV" tvg-logo="" group-title="REGIONALES",ES: Marbella TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/243
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mijas Comunicación" tvg-logo="" group-title="REGIONALES",ES: Mijas Comunicación
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/244
+#EXTINF:-1 tvg-id="" tvg-name="ES: Costa del Sol TV" tvg-logo="" group-title="REGIONALES",ES: Costa del Sol TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/245
+#EXTINF:-1 tvg-id="" tvg-name="ES: PTV Málaga FHD" tvg-logo="" group-title="REGIONALES",ES: PTV Málaga FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/246
+#EXTINF:-1 tvg-id="" tvg-name="ES: PTV Córdoba" tvg-logo="" group-title="REGIONALES",ES: PTV Córdoba
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/247
+#EXTINF:-1 tvg-id="" tvg-name="ES: Onda Mezquita TV" tvg-logo="" group-title="REGIONALES",ES: Onda Mezquita TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/248
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cancionero TV" tvg-logo="" group-title="REGIONALES",ES: Cancionero TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/249
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Málaga" tvg-logo="" group-title="REGIONALES",ES: Canal Málaga
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/250
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVM Córdoba" tvg-logo="" group-title="REGIONALES",ES: TVM Córdoba
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/251
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Centro Andalucía" tvg-logo="" group-title="REGIONALES",ES: TV Centro Andalucía
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/252
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Coín" tvg-logo="" group-title="REGIONALES",ES: Canal Coín
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/253
+#EXTINF:-1 tvg-id="" tvg-name="ES: M95 Marbella" tvg-logo="" group-title="REGIONALES",ES: M95 Marbella
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/254
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal San Roque" tvg-logo="" group-title="REGIONALES",ES: Canal San Roque
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/255
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sierra de Cádiz" tvg-logo="" group-title="REGIONALES",ES: Canal Sierra de Cádiz
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/256
+#EXTINF:-1 tvg-id="" tvg-name="ES: Trebujena TV" tvg-logo="" group-title="REGIONALES",ES: Trebujena TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/257
+#EXTINF:-1 tvg-id="" tvg-name="ES: SalTV" tvg-logo="" group-title="REGIONALES",ES: SalTV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/258
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal 25 Barbastro TV" tvg-logo="" group-title="REGIONALES",ES: Canal 25 Barbastro TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/259
+#EXTINF:-1 tvg-id="" tvg-name="ES: TPA7" tvg-logo="" group-title="REGIONALES",ES: TPA7
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/260
+#EXTINF:-1 tvg-id="" tvg-name="ES: EsAsturiasTV" tvg-logo="" group-title="REGIONALES",ES: EsAsturiasTV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/261
+#EXTINF:-1 tvg-id="" tvg-name="ES: Televisión Canaria" tvg-logo="" group-title="REGIONALES",ES: Televisión Canaria
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/262
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mírame TV" tvg-logo="" group-title="REGIONALES",ES: Mírame TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/263
+#EXTINF:-1 tvg-id="" tvg-name="ES: Lancelot TV" tvg-logo="" group-title="REGIONALES",ES: Lancelot TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/264
+#EXTINF:-1 tvg-id="" tvg-name="ES: Televisión Mogán" tvg-logo="" group-title="REGIONALES",ES: Televisión Mogán
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/266
+#EXTINF:-1 tvg-id="" tvg-name="ES: Popular TV Cantabria" tvg-logo="" group-title="REGIONALES",ES: Popular TV Cantabria
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/267
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM" tvg-logo="" group-title="REGIONALES",ES: CMM
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/268
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alcarria TV" tvg-logo="" group-title="REGIONALES",ES: Alcarria TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/269
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Diocesano Toledo" tvg-logo="" group-title="REGIONALES",ES: Canal Diocesano Toledo
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/270
+#EXTINF:-1 tvg-id="" tvg-name="ES:Guada TV" tvg-logo="" group-title="REGIONALES",ES:Guada TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/271
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal 4 Villarobledo" tvg-logo="" group-title="REGIONALES",ES: Canal 4 Villarobledo
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/272
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA7" tvg-logo="" group-title="REGIONALES",ES: LA7
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/273
+#EXTINF:-1 tvg-id="" tvg-name="ES: Super3" tvg-logo="" group-title="REGIONALES",ES: Super3
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/275
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3 Càmeres" tvg-logo="" group-title="REGIONALES",ES: TV3 Càmeres
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/276
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Girona" tvg-logo="" group-title="REGIONALES",ES: TV Girona
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/278
+#EXTINF:-1 tvg-id="" tvg-name="ES: 25 TV" tvg-logo="" group-title="REGIONALES",ES: 25 TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/279
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mar TV" tvg-logo="" group-title="REGIONALES",ES: Mar TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/280
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVCE" tvg-logo="" group-title="REGIONALES",ES: RTVCE
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/282
+#EXTINF:-1 tvg-id="" tvg-name="ES: El Faro" tvg-logo="" group-title="REGIONALES",ES: El Faro
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/283
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cáceres Tevé FHD" tvg-logo="" group-title="REGIONALES",ES: Cáceres Tevé FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/284
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE FHD Local" tvg-logo="" group-title="MUSICA",ES: MEZZO LIVE FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/77
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO SD Local" tvg-logo="" group-title="MUSICA",ES: MEZZO SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/143
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ESPAÑA SD Local" tvg-logo="" group-title="MUSICA",ES: MTV ESPAÑA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/144
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOL SD" tvg-logo="" group-title="MUSICA",ES: SOL SD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/170
+#EXTINF:-1 tvg-id="" tvg-name="ES: LOS 40" tvg-logo="" group-title="MUSICA",ES: LOS 40
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/232
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Andalucia Flamenco" tvg-logo="" group-title="MUSICA",ES: Canal Andalucia Flamenco
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/234
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gigante TV" tvg-logo="" group-title="MUSICA",ES: Gigante TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/265
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Benavente" tvg-logo="" group-title="MUSICA",ES: TV Benavente
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/274
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mola TV" tvg-logo="" group-title="MUSICA",ES: Mola TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/277
+#EXTINF:-1 tvg-id="" tvg-name="ES: PLAYBOY TV" tvg-logo="" group-title="",ES: PLAYBOY TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/153
+#EXTINF:-1 tvg-id="" tvg-name="ES: DARK FHD" tvg-logo="" group-title="CINE",ES: DARK FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/162
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein La Liga 1 HD Local" tvg-logo="" group-title="",ES: Bein La Liga 1 HD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/291
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS BAR1 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="DEPORTES",ES: #VAMOS BAR1 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/15
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS BAR2 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/500px-Vamos.svg.png" group-title="DEPORTES",ES: #VAMOS BAR2 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/16
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS BAR SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/500px-Vamos.svg.png" group-title="DEPORTES",ES: #VAMOS BAR SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/17
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT1 FHD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Eurosport_HD_logo_2009.svg/1024px-Eurosport_HD_logo_2009.svg.png" group-title="DEPORTES",ES: EUROSPORT1 FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/28
+#EXTINF:-1 tvg-id="es.LaLigaTVBAR" tvg-name="ES: LALIGATV BAR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="DEPORTES",ES: LALIGATV BAR FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/32
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATVBAR3 SD Local" tvg-logo="https://i.imgur.com/5z6fOoC.png" group-title="DEPORTES",ES: LALIGATVBAR3 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/33
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATVBAR4 SD Local" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="DEPORTES",ES: LALIGATVBAR4 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/34
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES1 FHD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Movistar_Deportes_1.svg" group-title="DEPORTES",ES: M. DEPORTES1 FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/36
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES2 SD Local" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png/revision/latest?cb=20160818140550" group-title="DEPORTES",ES: M. DEPORTES2 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/37
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES3 SD Local" tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/273-m-deportes3.png" group-title="DEPORTES",ES: M. DEPORTES3 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/38
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES4 SD Local" tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/274-m-deportes4.png" group-title="DEPORTES",ES: M. DEPORTES4 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/39
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES5 SD Local" tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/275-m-deportes5.png" group-title="DEPORTES",ES: M. DEPORTES5 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/40
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES FHD Local" tvg-logo="https://www.nicepng.com/png/detail/297-2976491_paquet-deportes-producte-movistar-deportes-logo.png" group-title="DEPORTES",ES: M. DEPORTES FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/41
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Movistar_LaLiga.svg" group-title="DEPORTES",ES: M. LaLiga SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/44
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 1 SD Local" tvg-logo="https://sport-tv-guide.live/images/stations/a1835.png" group-title="DEPORTES",ES: M. LaLiga 1 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/45
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 1 FHD Local" tvg-logo="" group-title="DEPORTES",ES: M. LaLiga 1 FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/46
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 2 SD Local" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/102/Logotipo_M%20LaLiga2_Negativo_RGB.png" group-title="DEPORTES",ES: M. LaLiga 2 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/47
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 2 FHD Local" tvg-logo="" group-title="DEPORTES",ES: M. LaLiga 2 FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/48
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 3 SD Local" tvg-logo="data:image/png;base64,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" group-title="DEPORTES",ES: M. LaLiga 3 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/49
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 3 FHD Local" tvg-logo="data:image/png;base64,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" group-title="DEPORTES",ES: M. LaLiga 3 FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/50
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 4 SD Local" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-laliga-4-1838.png" group-title="DEPORTES",ES: M. LaLiga 4 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/51
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 5 SD Local" tvg-logo="https://sport-tv-guide.live/images/stations/a1839.png" group-title="DEPORTES",ES: M. LaLiga 5 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/52
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 6 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",ES: M. LaLiga 6 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/53
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 7 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",ES: M. LaLiga 7 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/54
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 8 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",ES: M. LaLiga 8 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/55
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 9 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",ES: M. LaLiga 9 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/56
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 10 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",ES: M. LaLiga 10 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/57
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga FHD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Movistar_LaLiga.svg" group-title="DEPORTES",ES: M. LaLiga FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/58
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON1 FHD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEON1 FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/64
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON1 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEON1 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/65
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON2 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEON2 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/66
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON2. SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEON2. SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/67
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON3 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEON3 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/68
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON4 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEON4 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/69
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON5 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEON5 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/70
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON6 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEON6 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/71
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON7 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEON7 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/72
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON8 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEON8 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/73
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEONES SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEONES SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/74
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEONES FHD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES",ES: M.LCAMPEONES FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/75
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 SD Local" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo.png" group-title="DEPORTES",ES: EUROSPORT 1 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/116
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Eurosport_2_logo.svg/1200px-Eurosport_2_logo.svg.png" group-title="DEPORTES",ES: EUROSPORT 2 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/117
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATVBAR1 SD Local" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="DEPORTES",ES: LALIGATVBAR1 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/126
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATVBAR2" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="DEPORTES",ES: LALIGATVBAR2
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/127
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES SD Local" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportesa.png" group-title="DEPORTES",ES: M. DEPORTES SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/131
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES1 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png" group-title="DEPORTES",ES: M. DEPORTES1 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/132
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES6 SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Movistar_Deportes.svg" group-title="DEPORTES",ES: M. DEPORTES6 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/133
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES7 SD Local" tvg-logo="" group-title="DEPORTES",ES: M. DEPORTES7 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/134
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTE SD Local" tvg-logo="" group-title="DEPORTES",ES: MULTIDEPORTE SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/145
+#EXTINF:-1 tvg-id="" tvg-name="ES: R. MADRID TV SD Local" tvg-logo="" group-title="DEPORTES",ES: R. MADRID TV SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/154
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE SD Local" tvg-logo="" group-title="DEPORTES",ES: TELEDEPORTE SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/158
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. GOLF FHD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1024px-Movistar_Golf.svg.png" group-title="DEPORTES",ES: M. GOLF FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/43
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.FORMULA1 FHD Local" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1567690728553" group-title="DEPORTES",ES: M.FORMULA1 FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/63
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1280px-Gol.svg.png" group-title="DEPORTES",ES: GOL SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/122
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. GOLF SD Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Movistar_Golf.svg" group-title="DEPORTES",ES: M. GOLF SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/138
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.FORMULA1 SD Local" tvg-logo="" group-title="DEPORTES",ES: M.FORMULA1 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/142
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE FHD" tvg-logo="" group-title="DEPORTES",ES: TELEDEPORTE FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/164
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7RM FHD" tvg-logo="" group-title="DEPORTES",ES: 7RM FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/172
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.CineDoc&Roll" tvg-logo="" group-title="CINE",ES: M.CineDoc&Roll
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/174
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN SPORTS FHD Local" tvg-logo="" group-title="DEPORTES",ES: BEIN SPORTS FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/175
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN FHD Local" tvg-logo="" group-title="DEPORTES",ES: DAZN FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/176
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATV BAR SD Local" tvg-logo="" group-title="DEPORTES",ES: LALIGATV BAR SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/184
+#EXTINF:-1 tvg-id="" tvg-name="ES: Esport 3 SD Local" tvg-logo="" group-title="DEPORTES",ES: Esport 3 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/185
+#EXTINF:-1 tvg-id="" tvg-name="ES: Betis TV" tvg-logo="" group-title="DEPORTES",ES: Betis TV
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/228
+#EXTINF:-1 tvg-id="" tvg-name="ES: Redbull TV FHD Local" tvg-logo="" group-title="DEPORTES",ES: Redbull TV FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/230
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga TV BAR HD Local" tvg-logo="" group-title="DEPORTES",ES: La Liga TV BAR HD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/296
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS SD Local" tvg-logo="" group-title="DEPORTES",ES: #VAMOS SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/18
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS FHD Local" tvg-logo="" group-title="DEPORTES",ES: #VAMOS FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/19
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC FHD Local" tvg-logo="" group-title="CINE",ES: AMC FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/20
+#EXTINF:-1 tvg-id="es.AXN" tvg-name="ES: AXN FHD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/axn-01-logo-png-transparent.png" group-title="CINE",ES: AXN FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/21
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE FHD Local" tvg-logo="" group-title="CINE",ES: AXN WHITE FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/22
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 FHD Local" tvg-logo="" group-title="CINE",ES: CALLE 13 FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/23
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDYCENTRAL FHD Local" tvg-logo="" group-title="CINE",ES: COMEDYCENTRAL FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/25
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO FHD Local" tvg-logo="" group-title="CINE",ES: COSMO FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/26
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX FHD Local" tvg-logo="" group-title="CINE",ES: FOX FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/29
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE FHD Local" tvg-logo="" group-title="CINE",ES: FOX LIFE FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/30
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD FHD Local" tvg-logo="" group-title="CINE",ES: HOLLYWOOD FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/31
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. ACCI©N FHD Local" tvg-logo="" group-title="CINE",ES: M. ACCI©N FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/35
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DRAMA FHD Local" tvg-logo="" group-title="CINE",ES: M. DRAMA FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/42
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. SERIES FHD Local" tvg-logo="" group-title="CINE",ES: M. SERIES FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/59
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.COMEDIA FHD Local" tvg-logo="" group-title="CINE",ES: M.COMEDIA FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/60
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.CineDoc&Roll FHD" tvg-logo="" group-title="CINE",ES: M.CineDoc&Roll FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/61
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.ESTRENOS FHD Local" tvg-logo="" group-title="CINE",ES: M.ESTRENOS FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/62
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY FHD Local" tvg-logo="" group-title="CINE",ES: SYFY FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/81
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM FHD Local" tvg-logo="" group-title="CINE",ES: TCM FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/82
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT FHD Local" tvg-logo="" group-title="CINE",ES: TNT FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/83
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS SD Local" tvg-logo="" group-title="CINE",ES: TOROS SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/84
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS FHD Local" tvg-logo="" group-title="CINE",ES: TOROS FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/85
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC SD Local" tvg-logo="" group-title="CINE",ES: AMC SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/88
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN SD Local" tvg-logo="" group-title="CINE",ES: AXN SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/90
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE SD Local" tvg-logo="" group-title="CINE",ES: AXN WHITE SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/91
+#EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV SD Local" tvg-logo="" group-title="CINE",ES: BABY TV SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/92
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV SD Local" tvg-logo="" group-title="DEPORTES",ES: BARCA TV SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/93
+#EXTINF:-1 tvg-id="" tvg-name="ES: BE MAD SD Local" tvg-logo="" group-title="CINE",ES: BE MAD SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/94
+#EXTINF:-1 tvg-id="" tvg-name="ES: BLAZE SD Local" tvg-logo="" group-title="CINE",ES: BLAZE SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/95
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 SD Local" tvg-logo="" group-title="CINE",ES: CALLE 13 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/97
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL SD Local" tvg-logo="" group-title="CINE",ES: COMEDY CENTRAL SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/107
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO SD Local" tvg-logo="" group-title="CINE",ES: COSMO SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/108
+#EXTINF:-1 tvg-id="es.Factoría de Ficción" tvg-name="ES: FDF" tvg-logo="" group-title="TDT",ES: FDF
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/118
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE SD Local" tvg-logo="" group-title="CINE",ES: FOX LIFE SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/119
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX SD Local" tvg-logo="" group-title="CINE",ES: FOX SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/121
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD SD Local" tvg-logo="" group-title="CINE",ES: HOLLYWOOD SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/124
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. ACCI©N SD Local" tvg-logo="" group-title="CINE",ES: M. ACCI©N SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/128
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. COMEDIA SD Local" tvg-logo="" group-title="CINE",ES: M. COMEDIA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/129
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Cine Espaæol SD Local" tvg-logo="" group-title="CINE",ES: M. Cine Espaæol SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/130
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DRAMA SD Local" tvg-logo="" group-title="CINE",ES: M. DRAMA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/136
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. ESTRENOS SD Local" tvg-logo="" group-title="CINE",ES: M. ESTRENOS SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/137
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Oscars SD Local" tvg-logo="" group-title="CINE",ES: M. Oscars SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/139
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. SERIES SD Local" tvg-logo="" group-title="CINE",ES: M. SERIES SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/140
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. SERIESMANIA SD Local" tvg-logo="" group-title="CINE",ES: M. SERIESMANIA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/141
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA SD Local" tvg-logo="" group-title="CINE",ES: NOVA SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/151
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT SD Local" tvg-logo="" group-title="CINE",ES: PARAMOUNT SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/152
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY SD Local" tvg-logo="" group-title="CINE",ES: SYFY SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/156
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM SD Local" tvg-logo="" group-title="CINE",ES: TCM SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/157
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT SD Local" tvg-logo="" group-title="CINE",ES: TNT SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/159
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0 SD Local" tvg-logo="" group-title="CINE",ES: #0 SD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/13
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0 FHD Local" tvg-logo="" group-title="CINE",ES: #0 FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/14
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.Seriesmania FHD Local" tvg-logo="" group-title="CINE",ES: M.Seriesmania FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/76
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sundance FHG Local" tvg-logo="" group-title="CINE",ES: Sundance FHG Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/177
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM FHD Local" tvg-logo="" group-title="CINE",ES: XTRM FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/178
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS FHD Local" tvg-logo="" group-title="CINE",ES: SOMOS FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/179
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM FHD Local" tvg-logo="" group-title="CINE",ES: CMM FHD Local
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/197
+#EXTINF:-1 tvg-id="es.Factoría de Ficción" tvg-name="ES: FDF HD" tvg-logo="" group-title="CINE",ES: FDF HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/220
+#EXTINF:-1 tvg-id="" tvg-name="ES: Paramount Network" tvg-logo="" group-title="CINE",ES: Paramount Network
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/225
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 19 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 19 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1580
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler  FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler  FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1566
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 20 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 20 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1567
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Alquiler 1 FHD" tvg-logo="https://lh3.googleusercontent.com/proxy/O9K5canmbZ4X_cXTsTN15Bdmf1zsYF4dizhLI1jDl0qap9KU8J8A9xmBcikon8Fm3OUc5x7hX9rVSxsxR_EAcgdJPkT5HrNzYvNOkmmppSBX" group-title="CINE",ES: M. Alquiler 1 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1568
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 2 FHD" tvg-logo="https://lh3.googleusercontent.com/proxy/izyYrvwWEKpIyC7YbkGMmKbwBsSGxi5OJCZibZUB18_G3CQqCd1IYUF7fE8c3DaXr_tf5DGQNUg3myhES0L8-Y60ZKoFb8HonkBJvL3Cj6Dp" group-title="CINE",ES: Movistar Alquiler 2 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1569
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 3 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 3 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1570
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 4 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 4 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1571
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 5 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 5 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1572
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 6 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 6 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1573
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 7 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 7 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1574
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 8 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 8 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1575
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 9 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 9 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1576
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 10 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 10 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1577
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 11 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 11 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1578
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 12 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 12 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1579
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 13 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 13 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1581
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 14 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 14 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1582
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 15 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 15 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1583
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 16 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 16 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1584
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 17 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 17 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1585
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Alquiler 18 FHD" tvg-logo="" group-title="CINE",ES: Movistar Alquiler 18 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1586
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 1" tvg-logo="http://195.154.252.151/logo/alquiler1.png" group-title="CINE",Alquiler 1
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1926
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hustler 4K/HDR" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hustler 4K/HDR
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1587
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Blacked FullHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Blacked FullHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1588
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hustler Europe FullHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hustler Europe FullHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1589
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hustler TV FullHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hustler TV FullHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1590
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Erotic Star FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Erotic Star FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1591
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Evil Angel TV FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Evil Angel TV FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1592
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Fake Agent 2 HD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Fake Agent 2 HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1593
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Fake Agent 3 HD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Fake Agent 3 HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1594
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Fake Agent HD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Fake Agent HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1595
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Fake Taxi HD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Fake Taxi HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1596
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Female Fake Taxi FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Female Fake Taxi FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1597
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Gloryhole Love PornAngel FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Gloryhole Love PornAngel FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1598
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hot" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hot
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1599
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Max FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Max FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1600
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Muvi HD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Muvi HD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1601
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Satisfaction" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Satisfaction
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1602
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 1 FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 1 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1603
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 2 FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 2 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1604
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 3 FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 3 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1605
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 4 FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 4 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1606
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 5 FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 5 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1607
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 6 FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 6 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1608
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 7 FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Scoreland 7 FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1609
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Stars FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Stars FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1610
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Super One (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Super One (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1611
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY MIXX FHD" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY MIXX FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1612
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1613
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus 1" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus 1
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1614
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus 12" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus 12
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1615
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus 2" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus 2
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1616
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Alba XXX 1 FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Alba XXX 1 FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1617
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Alba XXX 2 FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Alba XXX 2 FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1618
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Barely Legal FullHD ( 18)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Barely Legal FullHD ( 18)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1619
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Blue Hustler (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Blue Hustler (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1620
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Brazzers TV Europe (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Brazzers TV Europe (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1621
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Candy FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Candy FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1622
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Cento X Cento (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Cento X Cento (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1623
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Dorcel FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Dorcel FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1624
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Dorcel XXX FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Dorcel XXX FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1625
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx DUSK!  (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx DUSK!  (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1626
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Erox FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Erox FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1627
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Eroxxx FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Eroxxx FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1628
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Evil Angel FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Evil Angel FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1629
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Exotica Plus (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Exotica Plus (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1630
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx French Lover (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx French Lover (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1631
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hot TV (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hot TV (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1632
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hustler FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Hustler FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1633
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx HUSTLER TV (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx HUSTLER TV (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1634
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Jasmin TV FullHD ( 18)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Jasmin TV FullHD ( 18)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1635
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx LEO TV (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx LEO TV (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1636
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Meiden Van Holland Hard (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Meiden Van Holland Hard (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1637
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Miami TV FullHD ( 18)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Miami TV FullHD ( 18)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1638
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1639
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx O la la TV (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx O la la TV (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1640
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Odmbt (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Odmbt (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1641
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Passion XXX  (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Passion XXX  (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1642
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1643
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse 1 FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse 1 FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1644
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse 2 FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse 2 FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1645
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1646
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 2 (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 2 (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1647
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 3 (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 3 (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1648
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 4 (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 4 (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1649
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 5 (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 5 (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1650
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 6 (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 6 (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1651
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 7 (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 7 (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1652
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 8 (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 8 (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1653
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink O TV (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Pink O TV (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1654
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Playboy (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Playboy (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1655
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Playboy Europe (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Playboy Europe (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1656
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Prıvate TV FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Prıvate TV FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1657
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Reality Kings (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Reality Kings (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1658
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Redlight FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Redlight FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1659
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Russian Night (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Russian Night (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1660
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Sct HQ (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Sct HQ (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1661
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx SCT Promo (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx SCT Promo (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1662
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Secret Circle (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Secret Circle (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1663
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Sext & Senso (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Sext & Senso (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1664
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Sextreme & Private TV (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Sextreme & Private TV (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1665
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Sexy HOT (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Sexy HOT (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1666
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse Black FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse Black FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1667
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Venus TV (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Venus TV (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1668
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Vivid Red FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Vivid Red FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1669
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Vivid TV Europe (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Vivid TV Europe (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1670
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Vısıt-X TV FullHD (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Vısıt-X TV FullHD (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1671
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx X Muvi (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx X Muvi (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1672
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx X-MO (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx X-MO (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1673
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XXL ( 18)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XXL ( 18)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1674
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XXX Stars FullHD ( 18)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XXX Stars FullHD ( 18)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1675
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Zest TV (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx Zest TV (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1676
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx ОХ АХ (Live)" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx ОХ АХ (Live)
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1677
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ˣˣˣ ADULT HOTCLUB 1 ʜᴅ" tvg-logo="" group-title="ADL",+ADL: ˣˣˣ ADULT HOTCLUB 1 ʜᴅ
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1678
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ˣˣˣ ADULT HOTCLUB 4 ʜᴅ" tvg-logo="" group-title="ADL",+ADL: ˣˣˣ ADULT HOTCLUB 4 ʜᴅ
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1679
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ˣˣˣ ADULT HOTCLUB 7 ʜᴅ" tvg-logo="" group-title="ADL",+ADL: ˣˣˣ ADULT HOTCLUB 7 ʜᴅ
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1680
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: Mia Khalifa FHD" tvg-logo="" group-title="ADL",+ADL: Mia Khalifa FHD
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1681
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ˣˣˣ DAUGHTER SWAP" tvg-logo="" group-title="ADL",+ADL: ˣˣˣ DAUGHTER SWAP
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1682
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ˣˣˣ Brazzers.1" tvg-logo="" group-title="ADL",+ADL: ˣˣˣ Brazzers.1
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1683
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: xxx: o La La" tvg-logo="" group-title="ADL",+ADL: xxx: o La La
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1684
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus 24" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus 24
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1685
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus 6" tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY Plus 6
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1686
+#EXTINF:-1 tvg-id="" tvg-name="+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY PLUS FHD " tvg-logo="" group-title="ADL",+ADL: ᴘʀᴇᴍɪᴜᴍ xxx XY PLUS FHD 
+http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/1687
+#EXTINF:-1 tvg-id="" tvg-name="Dogman" tvg-logo="" group-title="CINE",Dogman
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Instante mas Oscuro" tvg-logo="" group-title="CINE",El Instante mas Oscuro
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Capitana Marvel" tvg-logo="" group-title="Cinema-ES",Capitana Marvel
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animales Fantasticos 2" tvg-logo="" group-title="Cinema-ES",Animales Fantasticos 2
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mientras dure la guerra" tvg-logo="" group-title="Cinema-ES",Mientras dure la guerra
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Caso de Cristo" tvg-logo="" group-title="Cinema-ES",El Caso de Cristo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Con los brazos abiertos" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Con los brazos abiertos
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Código abierto" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Código abierto
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último acto" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El último acto
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eurythmics: Peacetour" tvg-logo="http://195.154.252.151:25461/images/37664_9160_movie_poster.jpg" group-title="Cinema-ES",Eurythmics: Peacetour
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deep Rising" tvg-logo="http://195.154.252.151:25461/images/9457_9206_movie_poster.jpg" group-title="Cinema-ES",Deep Rising
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darc" tvg-logo="http://195.154.252.151:25461/images/521647_2165_movie_poster.jpg" group-title="Cinema-ES",Darc
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eliminado-Dark Web" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Eliminado-Dark Web
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A 47 Metros 2" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",A 47 Metros 2
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E lfiel" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",E lfiel
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Assassin" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/hiADDuy92P12q8QJSQtj0IJWLJ4.jpg" group-title="Cinema-ES",American Assassin
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Gran Showman" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Gran Showman
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parasitos" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg" group-title="Cinema-ES",Parasitos
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="6 Globos" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",6 Globos
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Informer" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",The Informer
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De vuelta a casa" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",De vuelta a casa
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal de compañia" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Animal de compañia
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego del ahorcado" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El juego del ahorcado
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Pasajero" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Pasajero
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Death Note
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baywatch V.Extendida" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Baywatch V.Extendida
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dirt" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg" group-title="Cinema-ES",Dirt
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghostland" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/tt9YSQlArAj6849SQQJ5ryNgcJs.jpg" group-title="Cinema-ES",Ghostland
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entre ellas" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Entre ellas
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El sacrificio de un ciervo sagrado" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El sacrificio de un ciervo sagrado
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emoji" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/f5pF4OYzh4wb1dYL2ARQNdqUsEZ.jpg" group-title="Cinema-ES",Emoji
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="12 Rounds 3 Lockdown" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",12 Rounds 3 Lockdown
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Reino de las Ranas" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Reino de las Ranas
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Sueño" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Doctor Sueño
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesinato En El Orient Express" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/hIRLUvnXkv7ubp9SNM3QWznZaKm.jpg" group-title="Cinema-ES",Asesinato En El Orient Express
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despido procedente" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Despido procedente
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Infinito" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Infinito
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Band Aid 2017" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Band Aid 2017
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Fotografo de Mauthausen" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Fotografo de Mauthausen
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ana de las Tejas Verdes" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Ana de las Tejas Verdes
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bomb City" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Bomb City
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Lego Batman Movie" tvg-logo="http://195.154.252.151:25461/images/324849_9371_movie_poster.jpg" group-title="Cinema-ES",The Lego Batman Movie
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos amantes y un oso" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Dos amantes y un oso
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesinos Internacionales" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Asesinos Internacionales
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadwood la pelicula" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Deadwood la pelicula
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Come Sunday" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Come Sunday
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El.joven.Paulo.Coelho" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El.joven.Paulo.Coelho
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 2" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Deep Blue Sea 2
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bosque Maldito" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Bosque Maldito
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bordercross" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/w6tJVVsJhjHimSqn6WVClmJDNl5.jpg" group-title="Cinema-ES",Bordercross
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brawl In Cell Block 99" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Brawl In Cell Block 99
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crimenes Oscuros" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Crimenes Oscuros
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cambio de planes 2017" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Cambio de planes 2017
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos colegas al rescate" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Dos colegas al rescate
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Assimilate" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jbMZEbL9FuhvHOS5Yivz5Vwbbhk.jpg" group-title="Cinema-ES",Assimilate
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Downton Abbey
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Cascanueces y los 4 Reinos" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Cascanueces y los 4 Reinos
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En.cuerpo.y.alma" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",En.cuerpo.y.alma
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Fundador" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Fundador
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Warriors" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",The Warriors
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hijo" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Hijo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crudo" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/vUpSyj05boXdnrKRLpe6ASs1U1N.jpg" group-title="Cinema-ES",Crudo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cometieron dos Errores" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/qcs3Cv8C899kUazP6rN1bWIY5a2.jpg" group-title="Cinema-ES",Cometieron dos Errores
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Justiciero" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Justiciero
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El guardian invisible" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El guardian invisible
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El dia que vendra" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El dia que vendra
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atraco en Familia" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Atraco en Familia
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El tercer asesinato" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El tercer asesinato
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la Piel de Lobo" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Bajo la Piel de Lobo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hombre del corazon de hierro" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El hombre del corazon de hierro
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dando La Nota 3" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Dando La Nota 3
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 Hours to Live" tvg-logo="http://195.154.252.151:25461/images/470114_2176_movie_poster.jpg" group-title="Cinema-ES",24 Hours to Live
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detroit" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg" group-title="Cinema-ES",Detroit
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/1999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bushwick" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg" group-title="Cinema-ES",Bushwick
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2.22.m" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",2.22.m
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Muñeco de Nieve" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Muñeco de Nieve
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cadaver" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/A4FBEaJsdu5n4srYJyCI7v32lLY.jpg" group-title="Cinema-ES",Cadaver
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Day of the Dead Bloodline" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Day of the Dead Bloodline
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dulce Venganza" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Dulce Venganza
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Billy Lynn" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Billy Lynn
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Colosal" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bAHXPIZy1t8kiEqb7hn4BRbuuBd.jpg" group-title="Cinema-ES",Colosal
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duck Butter" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Duck Butter
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drones" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/aSpY1r8uIGNDxCU471plwlhLKVb.jpg" group-title="Cinema-ES",Drones
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aniquilacion" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7EGElXVSNnqcPjuhXPd6UVUX1rD.jpg" group-title="Cinema-ES",Aniquilacion
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciguenias" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Ciguenias
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dire tu Nombre" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Dire tu Nombre
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="30 dias de oscuridad" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",30 dias de oscuridad
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Catfight" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/97Zbegv8V4uM0CwEQvwtMhpqlF5.jpg" group-title="Cinema-ES",Catfight
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Call Me by Your Name" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Call Me by Your Name
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicas Con Pelotas" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Chicas Con Pelotas
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Day.of.the.mummy" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Day.of.the.mummy
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Colonia" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/buEhROtfCEFNhjPWdJVgeVnrThj.jpg" group-title="Cinema-ES",Colonia
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Black Panther
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Critters Attack" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Critters Attack
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antboy 2 la venganza de furia roja" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Antboy 2 la venganza de furia roja
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mara" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/gQDmXAef1Oc1SXci5mui2x5DJwt.jpg" group-title="Cinema-ES",Mara
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dude" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/vh4K737r0ZjrioIjHcs7ktV8RFO.jpg" group-title="Cinema-ES",Dude
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big.Driver" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Big.Driver
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El corredor del laberinto La Cura Mortal" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El corredor del laberinto La Cura Mortal
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mejor defensa es un ataque" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",La mejor defensa es un ataque
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A todo gas 8" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",A todo gas 8
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buscando Venganza" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Buscando Venganza
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Pajaro Loco La pelicula" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Pajaro Loco La pelicula
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cincuenta sombras mas Oscuras" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Cincuenta sombras mas Oscuras
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A golpe de monedas" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",A golpe de monedas
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 Hours" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",24 Hours
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eternite" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8rTuXVTvOpxgOnYgNryrQxhov9s.jpg" group-title="Cinema-ES",Eternite
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diamantes en bruto" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Diamantes en bruto
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cut Shoot Kill" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Cut Shoot Kill
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Bar" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/71T4rBui8Nhh6mHRYeXZvv5xQrO.jpg" group-title="Cinema-ES",El Bar
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CHiPs" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mIHA8Xf6WmxbS83ia4vQ5ojvxV8.jpg" group-title="Cinema-ES",CHiPs
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman and Harley Quinn" tvg-logo="http://195.154.252.151:25461/images/408648_8197_movie_poster.jpg" group-title="Cinema-ES",Batman and Harley Quinn
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cita Con el Miedo" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Cita Con el Miedo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El agente" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El agente
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg" group-title="Cinema-ES",Dumbo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snatched" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/gsleO1KultziWltEAngAEZkxQhf.jpg" group-title="Cinema-ES",Snatched
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Gotham by Gaslight" tvg-logo="http://195.154.252.151:25461/images/471474_7017_movie_poster.jpg" group-title="Cinema-ES",Batman: Gotham by Gaslight
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clown" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/xITKIGjA4ox8OsH08lKeMP7zB0Q.jpg" group-title="Cinema-ES",Clown
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psycho I" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Psycho I
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blame!" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/upAYxsju9jV7hU3k7pxYtS4exyL.jpg" group-title="Cinema-ES",Blame!
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="7 Dias En Entebbe" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",7 Dias En Entebbe
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="6 dias 2017" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",6 dias 2017
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duologia la Mosca" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Duologia la Mosca
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dunkirk" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/bOXBV303Fgkzn2K4FeKDc0O31q4.jpg" group-title="Cinema-ES",Dunkirk
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A war (Una guerra)" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",A war (Una guerra)
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Espejo Roto" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Espejo Roto
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baby Driver" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Baby Driver
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amityville El despertar" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/cZW2ajrHSiA0Ar2o00g4ezUYqZX.jpg" group-title="Cinema-ES",Amityville El despertar
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El imperio de las sombras" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El imperio de las sombras
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antboy 3" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Antboy 3
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Congo" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/wjeQaiAApgzdipkNXhQnBrqjBY9.jpg" group-title="Cinema-ES",Congo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El infiltrado" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El infiltrado
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leñador" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/taXsvq2EpUTcU0QZtKYIYQ86C22.jpg" group-title="Cinema-ES",Leñador
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle Creation" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Annabelle Creation
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cementerio de Animales" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg" group-title="Cinema-ES",Cementerio de Animales
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Viaje de sus Vidas" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Viaje de sus Vidas
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snatched HDR Horse33" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Snatched HDR Horse33
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="27 Gone Too Soon" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",27 Gone Too Soon
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Gran Hackeo" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Gran Hackeo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casa Casino" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Casa Casino
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como filmar una XXX" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Como filmar una XXX
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Bohemian Rhapsody
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Decommissioned" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7JjkyMjeOZSPwBBxqw9N5rea3i5.jpg" group-title="Cinema-ES",Decommissioned
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Borning 2" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Borning 2
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Celda 211" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Celda 211
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enganchados a la muerte" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/aHYP2nFuR8V1LXTjPc99rx0DuR4.jpg" group-title="Cinema-ES",Enganchados a la muerte
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atomica" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/o0fYUDBEvymij9WM3JtG1AVrgex.jpg" group-title="Cinema-ES",Atomica
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Efecto Sombra" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Efecto Sombra
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De Caza con Papa" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",De Caza con Papa
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como.la.espuma" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Como.la.espuma
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eat Local" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Eat Local
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gerald's Game" tvg-logo="http://195.154.252.151:25461/images/343674_7128_movie_poster.jpg" group-title="Cinema-ES",Gerald's Game
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesinato Por Amor" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Asesinato Por Amor
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg" group-title="Cinema-ES",Aquaman
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Final de Todo" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Final de Todo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dolor y Gloria" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Dolor y Gloria
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cripto " tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Cripto 
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cargo" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/cdPSUck4tBRvRu6DFk6XciDrssn.jpg" group-title="Cinema-ES",Cargo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Rising Endgame" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Dead Rising Endgame
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bienvenido a Marwen" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face" group-title="Cinema-ES",Bienvenido a Marwen
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atrapados" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/qNRtZh6jbSrzLqj4BAEixeTAvMM.jpg" group-title="Cinema-ES",Atrapados
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Candy Jar" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Candy Jar
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bye.Bye.Germany" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Bye.Bye.Germany
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bright" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg" group-title="Cinema-ES",Bright
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos padres por desigual" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Dos padres por desigual
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elisa y Marcela" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Elisa y Marcela
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El dia de la novia" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El dia de la novia
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doble.traicion" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Doble.traicion
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El caso Sloane" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El caso Sloane
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Abuelo Espia" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Abuelo Espia
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cantabrico" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/r945YP5gtGetm8CIQnBRueMfYKf.jpg" group-title="Cinema-ES",Cantabrico
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despertando a Zodiac" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4sUM0oSUKDVIkQAgV85g0Ap6zdj.jpg" group-title="Cinema-ES",Despertando a Zodiac
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesinato en 8 mm" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/hIRLUvnXkv7ubp9SNM3QWznZaKm.jpg" group-title="Cinema-ES",Asesinato en 8 mm
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Cuaderno de Sara" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",El Cuaderno de Sara
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cult of Chucky" tvg-logo="http://195.154.252.151:25461/images/393345_2357_movie_poster.jpg" group-title="Cinema-ES",Cult of Chucky
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deep 2017" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Deep 2017
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cars 3" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Cars 3
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duologia la Mosca2" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Duologia la Mosca2
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blanco Perfecto" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Blanco Perfecto
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Death Note El nuevo mundo" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Death Note El nuevo mundo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beyond the Gates" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Beyond the Gates
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Donnybrook" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jcuEDKnM3uThdz7p0YYWFjMla73.jpg" group-title="Cinema-ES",Donnybrook
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="50 Sombras Liberadas" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",50 Sombras Liberadas
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2049" tvg-logo="http://195.154.252.151:25461/images/335984_7709_movie_poster.jpg" group-title="Cinema-ES",Blade Runner 2049
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último reino" tvg-logo="http://195.154.252.151:25461/images/63333_4532_movie_poster.jpg" group-title="Cinema-ES",El último reino
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="High Tide" tvg-logo="http://195.154.252.151:25461/images/653581_4673_movie_poster.jpg" group-title="Cinema-ES",High Tide
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cavernicola" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jVm6vlyIzlVemfEvKvaLdPWzTrq.jpg" group-title="Cinema-ES",Cavernicola
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clinical" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/yDnaWPY7MNVaHA0IuUtkgkxGI1c.jpg" group-title="Cinema-ES",Clinical
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Attraction BD" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/uMr2lXCh8PuGBhCIosjknQRv1iT.jpg" group-title="Cinema-ES",Attraction BD
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs. Two-Face" tvg-logo="http://195.154.252.151:25461/images/464882_3480_movie_poster.jpg" group-title="dibujos animados-ES",Batman vs. Two-Face
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blood Money" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Cinema-ES",Blood Money
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desnudo" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/uJJcEs69GrGpHL3Ol5cchw7cYBS.jpg" group-title="Cinema-ES",Desnudo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Autodestruccion" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg" group-title="Cinema-ES",Autodestruccion
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Lighthouse of the Orcas" tvg-logo="http://195.154.252.151:25461/images/430161_7503_movie_poster.jpg" group-title="Cinema-ES",The Lighthouse of the Orcas
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Wilde Wedding" tvg-logo="http://195.154.252.151:25461/images/470472_5995_movie_poster.jpg" group-title="Cinema-ES",The Wilde Wedding
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="On the Milky Road" tvg-logo="http://195.154.252.151:25461/images/255160_1519_movie_poster.jpg" group-title="Cinema-ES",On the Milky Road
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Only Living Boy in New York" tvg-logo="http://195.154.252.151:25461/images/95608_8816_movie_poster.jpg" group-title="Cinema-ES",The Only Living Boy in New York
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Get Out" tvg-logo="http://195.154.252.151:25461/images/419430_8194_movie_poster.jpg" group-title="Cinema-ES",Get Out
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="You Were Never Really Here" tvg-logo="http://195.154.252.151:25461/images/398181_8419_movie_poster.jpg" group-title="Cinema-ES",You Were Never Really Here
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 latas" tvg-logo="http://195.154.252.151:25461/images/584427_5305_movie_poster.jpg" group-title="Cinema-ES",4 latas
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cute Little Buggers" tvg-logo="http://195.154.252.151:25461/images/289708_2605_movie_poster.jpg" group-title="Cinema-ES",Cute Little Buggers
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coldwater" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/6aANN6HQARnErZZvEkosB3r1U51.jpg" group-title="Cinema-ES",Coldwater
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wuthering Heights" tvg-logo="http://195.154.252.151:25461/images/165569_8726_movie_poster.jpg" group-title="Cinema-ES",Wuthering Heights
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mooz-lum" tvg-logo="http://195.154.252.151:25461/images/66025_9720_movie_poster.jpg" group-title="Cinema-ES",Mooz-lum
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Addams Family" tvg-logo="http://195.154.252.151:25461/images/2907_8890_movie_poster.jpg" group-title="Cinema-ES",The Addams Family
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="This Beautiful Fantastic" tvg-logo="http://195.154.252.151:25461/images/352490_7868_movie_poster.jpg" group-title="Cinema-ES",This Beautiful Fantastic
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1922" tvg-logo="http://195.154.252.151:25461/images/452507_9836_movie_poster.jpg" group-title="Cinema-ES",1922
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Bebe Jefazo" tvg-logo="http://195.154.252.151:25461/images/3874544_3914_movie_poster.jpg" group-title="dibujos animados-ES",El Bebe Jefazo
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Scarlet Blade" tvg-logo="http://195.154.252.151:25461/images/82807_5460_movie_poster.jpg" group-title="Cinema-ES",The Scarlet Blade
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creed II" tvg-logo="http://195.154.252.151:25461/images/480530_6593_movie_poster.jpg" group-title="Cinema-ES",Creed II
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Ghost Story" tvg-logo="http://195.154.252.151:25461/images/428449_6487_movie_poster.jpg" group-title="Cinema-ES",A Ghost Story
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Patriots Day" tvg-logo="http://195.154.252.151:25461/images/388399_5719_movie_poster.jpg" group-title="Cinema-ES",Patriots Day
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Captain Underpants: The First Epic Movie" tvg-logo="http://195.154.252.151:25461/images/268531_9204_movie_poster.jpg" group-title="dibujos animados-ES",Captain Underpants: The First Epic Movie
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hitman's Bodyguard" tvg-logo="http://195.154.252.151:25461/images/390043_5719_movie_poster.jpg" group-title="Cinema-ES",The Hitman's Bodyguard
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Santa 2" tvg-logo="http://195.154.252.151:25461/images/338964_8211_movie_poster.jpg" group-title="Cinema-ES",Bad Santa 2
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brimstone" tvg-logo="http://195.154.252.151:25461/images/324560_2870_movie_poster.jpg" group-title="Cinema-ES",Brimstone
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Book of Henry" tvg-logo="http://195.154.252.151:25461/images/382614_8860_movie_poster.jpg" group-title="Cinema-ES",The Book of Henry
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Glass Castle" tvg-logo="http://195.154.252.151:25461/images/336000_4981_movie_poster.jpg" group-title="Cinema-ES",The Glass Castle
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Better Watch Out" tvg-logo="http://195.154.252.151:25461/images/406994_7362_movie_poster.jpg" group-title="Cinema-ES",Better Watch Out
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg" group-title="Cinema-ES",Coco
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Camel" tvg-logo="http://195.154.252.151:25461/images/412841_4392_movie_poster.jpg" group-title="Cinema-ES",Celestial Camel
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carteristas" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/7JYpjCTvWRRcBF5pRO5ZQONsGgg.jpg" group-title="Cinema-ES",Carteristas
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Deadpool" tvg-logo="http://195.154.252.151:25461/images/567604_9638_movie_poster.jpg" group-title="Cinema-ES",Once Upon a Deadpool
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/6tkmf3MrA3SKoBnVeBJsqXuLJ9a.jpg" group-title="Cinema-ES",Arsenal
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clowntergeist" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jcpf5Vx1tehpAulIARlp68ruEKJ.jpg" group-title="Cinema-ES",Clowntergeist
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear America: Letters Home from Vietnam" tvg-logo="http://195.154.252.151:25461/images/61777_3769_movie_poster.jpg" group-title="Cinema-ES",Dear America: Letters Home from Vietnam
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Wolf's Call" tvg-logo="http://195.154.252.151:25461/images/484468_2411_movie_poster.jpg" group-title="Cinema-ES",The Wolf's Call
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Certain Women" tvg-logo="http://195.154.252.151:25461/images/340487_9673_movie_poster.jpg" group-title="Cinema-ES",Certain Women
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Sense of an Ending" tvg-logo="http://195.154.252.151:25461/images/354285_4834_movie_poster.jpg" group-title="Cinema-ES",The Sense of an Ending
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pilgrimage" tvg-logo="http://195.154.252.151:25461/images/340442_1247_movie_poster.jpg" group-title="Cinema-ES",Pilgrimage
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Contract Killers" tvg-logo="http://195.154.252.151:25461/images/13277_8985_movie_poster.jpg" group-title="Cinema-ES",Contract Killers
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Woman in Black 2: Angel of Death" tvg-logo="http://195.154.252.151:25461/images/288158_3150_movie_poster.jpg" group-title="Cinema-ES",The Woman in Black 2: Angel of Death
+http://iptv.xtreamiptv.net:8080/movie/ttr246/Rsi6iQiiSA/2158.mkv
