@@ -75,7 +75,7 @@ http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/182
 http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/231
 #EXTINF:-1 tvg-id="" tvg-name="ES: CAZAyPESCA FHD Local" tvg-logo="" group-title="DOCUMENTALES",ES: CAZAyPESCA FHD Local
 http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/24
-#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="ES: NAT GEO FHD Local" tvg-logo="" group-title="DOCUMENTALES",Nat Geo HD
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="ES: NAT GEO FHD Local" tvg-logo="https://raw.githubusercontent.com/dracohe/picon/master/NATGEO.png" group-title="DOCUMENTALES",Nat Geo HD
 http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/78
 #EXTINF:-1 tvg-id="" tvg-name="ES: NG WILD FHD Local" tvg-logo="" group-title="DOCUMENTALES",ES: NG WILD FHD Local
 http://iptv.xtreamiptv.net:8080/ttr246/Rsi6iQiiSA/79
